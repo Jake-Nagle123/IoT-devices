@@ -2,6 +2,8 @@
 ## Overview
 The objective of the project is to create a working project using networking/IoT devices. The devices are to have some physical aspect which includes sensors/devices(SesneHats).
 
+Watch demonstration on YouTube - https://youtu.be/PJPEZuKRuoo?feature=shared.
+
 ## Project Description
 Before going into detail about the project, a brief background on the idea behind it. We are currently in winter, across the country there will be heating systems on to esnure houses keep warm. Businesses also will have these systems running throughout the day. One thing in common with both a local business and someone living in a family home is the majority of them will have some type of plant situated somewhere in their building.
 
@@ -45,3 +47,4 @@ Once a trigger for a threhold has been set off for any one of the conditions, th
 #### Links to my project
 1. https://github.com/Jake-Nagle123/IoT-devices.git
 2. https://blynk.cloud/dashboard/login
+3. https://youtu.be/PJPEZuKRuoo?feature=shared
